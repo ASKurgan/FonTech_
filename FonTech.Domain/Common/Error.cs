@@ -8,5 +8,6 @@ namespace FonTech.Domain.Common
 {
     internal class Error
     {
+        public string ErrorName { get; set; } = string.Empty;
     }
 }
