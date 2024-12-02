@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonTech.Api", "FonTech.Api\FonTech.Api.csproj", "{264FDC0B-72C5-4909-8C99-1298CE0A2BD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FonTech.Domain", "FonTech.Domain\FonTech.Domain.csproj", "{887FB08C-E91B-4BEB-9ED9-59FB784289FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{264FDC0B-72C5-4909-8C99-1298CE0A2BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264FDC0B-72C5-4909-8C99-1298CE0A2BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264FDC0B-72C5-4909-8C99-1298CE0A2BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887FB08C-E91B-4BEB-9ED9-59FB784289FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887FB08C-E91B-4BEB-9ED9-59FB784289FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887FB08C-E91B-4BEB-9ED9-59FB784289FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887FB08C-E91B-4BEB-9ED9-59FB784289FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
